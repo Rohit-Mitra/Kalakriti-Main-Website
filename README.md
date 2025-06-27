@@ -1,6 +1,5 @@
 # Kalakriti Website
-Official Webiste for Kalakriti - DTU
-www.kalakritidtu.com
+Official Webiste for [Kalakriti - DTU] (https://rohit-mitra.github.io/Kalakriti-Main-Website/)) 
 
 🔶 Kalakriti WebsiteAdd commentMore actions
 A responsive and interactive website built for Kalakriti, a cultural and creative arts society. Developed using HTML, CSS, and JavaScript, the site showcases upcoming events, artist highlights, galleries, and contact information in a clean and visually engaging layout.
